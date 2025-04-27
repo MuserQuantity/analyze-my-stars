@@ -1,0 +1,11 @@
+.env
+*.json
+*.csv
+*.jsonl
+
+# 忽略python虚拟环境
+.venv/
+
+# 忽略所有pyc文件
+*.pyc
+__pycache__
